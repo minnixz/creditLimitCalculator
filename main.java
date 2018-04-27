@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
 
-
+//test of syncing git on amazon awz server
 
 
 
